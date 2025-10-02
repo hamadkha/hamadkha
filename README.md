@@ -12,21 +12,32 @@
   - Email: hamadtakkar2233@gmail.com
 
   ---
-
   ## Technical Skills
 
-  - Languages:
-    - Python, C++, MATLAB
+  - Core AI & NLP Concepts:
+    - Retrieval-Augmented Generation (RAG)
+    - Agentic AI Systems & Workflows
+    - Large Language Models (LLMs)
+    - LLM Fine-Tuning & Customization
+    - Embeddings & Vectorization
+    - Question Answering Systems
+    - Text Summarization & Named Entity Recognition (NER)
+    - Deep Learning & Neural Networks (ANN, RNN)
+    - Supervised & Unsupervised Machine Learning
 
-  - Data Science & Machine Learning:
-    - TensorFlow, PyTorch, Keras, Hugging Face, Scikit-learn, Pandas, NumPy, OpenCV
+  - AI & Python Ecosystem:
+    - Frameworks: LangChain, LangGraph, PyTorch, TensorFlow, Keras, Scikit-learn
+    - Libraries: Hugging Face, Pandas, NumPy, OpenCV
+    - Languages: Python, C++, MATLAB
 
-  - Backend & AI Frameworks:
-    - FastAPI, Streamlit, LangChain, LangGraph
+  - Backend & API Development:
+    - FastAPI, Streamlit
+
+  - Databases & Vector Stores:
+    - Qdrant, Pinecone, Firebase, General Vector Databases
 
   - Cloud & Deployment:
-    - Google Cloud (GCP), Firebase, Docker, Git
-
+    - Google Cloud Platform (GCP), Docker, Git
   ---
 
   ## Featured Projects
