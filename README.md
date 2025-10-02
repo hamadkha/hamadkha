@@ -8,7 +8,7 @@
   services on Google Cloud Platform.
 
   Connect with me:
-  - LinkedIn: linkedin.com/in/hamad-khanml (https://www.linkedin.com/in/hamad-khanml)
+  - LinkedIn: (https://www.linkedin.com/in/hamad-khanml)
   - Email: hamadtakkar2233@gmail.com
 
   ---
