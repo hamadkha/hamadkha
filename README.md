@@ -10,7 +10,7 @@
   Connect with me:
   - LinkedIn: (https://www.linkedin.com/in/hamad-khanml)
   - Email: hamadtakkar2233@gmail.com
-  - WebPage: (https://portfolio-website-steel-three-81.vercel.app/)
+  - WebPage: (https://hamadkhan-portfolio-website.vercel.app/)
 
   ---
   ## Technical Skills
